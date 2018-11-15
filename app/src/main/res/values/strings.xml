@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Popular Movies2</string>
+    <string name="description_poster">Poster</string>
+    <string name="sort_order_popular_text">Most Popular</string>
+    <string name="sort_order_popular_value" translatable="false">popular</string>
+    <string name="sort_order_rating_text">Top Rating</string>
+    <string name="sort_order_rating_value" translatable="false">top_rated</string>
+    <string name="sort_order_favorite_value" translatable="false">favorite</string>
+    <string name="msg_err_no_internet">No internet connection</string>
+    <string name="image_description">Poster image</string>
+    <string name="description_button_play">Play</string>
+    <string name="activity_movie_detail_title">Movie Detail</string>
+    <string name="description_logo">Logo image</string>
+    <string name="desc_button_favorite">Favorite</string>
+    <string name="overview_text">Overview:</string>
+    <string name="trailers_text">Trailers:</string>
+    <string name="reviews_text">Reviews:</string>
+    <string name="menu_favorite">Favorite</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>

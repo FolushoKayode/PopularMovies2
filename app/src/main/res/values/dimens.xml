@@ -1,0 +1,23 @@
+<resources>
+    <dimen name="fab_margin">16dp</dimen>
+    <dimen name="vertical_Layout_margin">28dp</dimen>
+    <dimen name="horizontal_padding">16dp</dimen>
+    <dimen name="with_icon_margin">72dp</dimen>
+    <dimen name="space_between_areas">8dp</dimen>
+    <dimen name="item_height_two_line">72dp</dimen>
+    <dimen name="elevation">8dp</dimen>
+    <dimen name="title_area_height">140dp</dimen>
+    <dimen name="screen_left_right_margin">16dp</dimen>
+    <dimen name="logo_width">120dp</dimen>
+    <dimen name="logo_height">179dp</dimen>
+    <dimen name="line_thickness">1dp</dimen>
+    <dimen name="vertical_margin">28dp</dimen>
+
+
+    <!--Text Sizes-->
+    <dimen name="text_size">16sp</dimen>
+    <dimen name="header_one_text_size">48sp</dimen>
+    <dimen name="header_two_text_size">28sp</dimen>
+    <dimen name="header_three_text_size">22sp</dimen>
+
+</resources>
